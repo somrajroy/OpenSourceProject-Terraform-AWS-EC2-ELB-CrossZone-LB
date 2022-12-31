@@ -16,3 +16,13 @@ On-demand environments with IaC for client demo's & DEV/Test Enviornments. <br/>
 ![image](https://user-images.githubusercontent.com/92582005/210150134-3ad9895c-5ff8-4679-9004-06ae60e12af1.png) <br/><br/>
 
 ![image](https://user-images.githubusercontent.com/92582005/210150145-02af0cb9-78d4-4718-ba05-9456cd51391c.png) <br/><br/>
+
+* AWS resources deployed : <br/>
+  * VPC - virtual private cloud <br/>
+  * 3 Public Subnets <br/>
+  * Internet Gateway <br/>
+  * Public Route Tables <br/>
+  * Security Groups <br/>
+  * 3 EC2 Instances <br/>
+  * Target Group <br/> 
+  * Application Load Balancer <br/>
