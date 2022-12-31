@@ -1,4 +1,4 @@
-# AWS Cross Zone load balacing Demo with Terraform. Immutable infrastructure. <br/>
+### AWS Cross Zone load balacing on-demand infrastructure with Terraform. Immutable infrastructure. <br/>
 On-demand environments with IaC for client demo's & DEV/Test Enviornments. <br/> 
 * Cross zone Load Balancing with Terraform. Deploy a Set of EC2 Instances behind an ALB. This Terraform code can very easily be extended for more complex enterprise grade infrastructure creation.<br/>
 * Terraform is used to create the a reusable complex infrastructure which can be created and destroyed as many times as possible. Below is the architecture which would be created entirely through Terraform in AWS. The terraform code is complex and uploaded in the "sourcecode" folder. <br/>
