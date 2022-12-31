@@ -8,6 +8,7 @@ On-demand environments with IaC for client demo's & DEV/Test Enviornments. <br/>
 * Once the infrastructure is deployed then & the DNS of the ALB is viewed in browser the response will come from 1 of the 3 EC2 machines from different AZ's in us-west-2 region. When the page is refreshed then each time it can be seen that the response is coming from a different EC2 machine in different AZ as in the images below. <br/>
 * The page displays the IP address & AZ of the EC2 machine sending the response. <br/>
 * The shell Script in "awsuserdata.sh" bootstrapps the instances and prints the AZ & IP of the instances. It installs an apache server which listens of port 80. <br/> <br/>
+* 
 
 ![image](https://user-images.githubusercontent.com/92582005/210150116-c3553e33-dab4-4224-8ecc-435562c2fac7.png) <br/><br/>
 
