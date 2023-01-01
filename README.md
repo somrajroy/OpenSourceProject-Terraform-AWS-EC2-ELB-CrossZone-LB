@@ -7,7 +7,7 @@ On-demand environments with IaC for client demo's & DEV/Test Enviornments. <br/>
 * **Good quality Cloud Architecture diagrams can be done easily in draw.io. It is a cloud based tool with minimal hassles.** <br/><br/>
 
 ![image](https://user-images.githubusercontent.com/92582005/210149141-ecea4e4a-95df-44d8-a0ac-db6000e11dd5.png) <br/><br/>
-* Topics covered/Learnings :
+* Topics covered :
    * Operational Excellence Pillar of AWS Well Architecture (IaC) & templated infrastructure. <br/>
    * Automation : Creating reusable and repeatable infrastuctures.<br/>
    * Elastic Load Balancing (ELB) : ELB is an effective way to increase the availability of a system and distributes incoming traffic to application across several EC2 instances. <br/>
