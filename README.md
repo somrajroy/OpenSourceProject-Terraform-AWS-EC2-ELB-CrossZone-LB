@@ -8,12 +8,13 @@ On-demand environments with IaC for client demo's & DEV/Test Enviornments. <br/>
 
 
 ![image](https://user-images.githubusercontent.com/92582005/210149141-ecea4e4a-95df-44d8-a0ac-db6000e11dd5.png) <br/><br/>
-* Topics covered :
+* Areas covered :
    * Operational Excellence Pillar of AWS Well Architecture (IaC) & templated infrastructure. <br/>
    * Automation : Creating reusable and repeatable infrastuctures.<br/>
    * Elastic Load Balancing (ELB) : ELB is an effective way to increase the availability of a system and distributes incoming traffic to application across several EC2 instances. <br/>
    * AWS Networking : VPC, Subnets, Route tables, Internet gateway, EIP's etc.<br/>
    * Bootstrapping <br/>
+   * Terraform advanced <br/>
 * Once the infrastructure is deployed then & the DNS of the ALB is viewed in browser the response will come from 1 of the 3 EC2 machines from different AZ's in us-west-2 region. When the page is refreshed then each time it can be seen that the response is coming from a different EC2 machine in different AZ as in the images below. <br/>
 * The page displays the IP address & AZ of the EC2 machine sending the response as in below images. <br/>
 * The shell Script in "awsuserdata.sh" bootstrap's the instances and prints the AZ & IP of the instances. It installs an apache server which listens of port 80. <br/> <br/>
