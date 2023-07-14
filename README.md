@@ -1,4 +1,4 @@
-### AWS Cross Zone load balacing on-demand infrastructure with Terraform. Immutable infrastructure. <br/>
+### Open Source Project - AWS Cross Zone load balacing on-demand infrastructure with Terraform. Immutable infrastructure. <br/>
 On-demand environments with IaC for client demo's & DEV/Test Enviornments. <br/> 
 * Infrastructure-as-Code (IaC) is the key topic in Operational Exellence pillar of "AWS Well-Architected Framework". IaC enables customers to have consistent, templated, sandbox development, test, and production environments with increasing levels of operations control. Automation allows to create &  replicate workloads at low cost and avoid the expense of manual effort. Most importantly it allows for evolutionary architectures.<br/>
 * In the cloud, customers can apply the same engineering discipline that they use for application code to their entire environment. They can define your entire workload (applications, infrastructure) as code and update it with code.By performing operations as code, customers can limit human error and enable consistent responses to events. <br/>
